@@ -10,6 +10,9 @@
 - **主观题**：自动将所有文本框内容填充为 `无`。
 - **触发事件**：模拟 `change` 和 `input` 事件，确保页面上的任何监听逻辑被正确触发。
 
+> [!NOTE]
+> 本脚本为手动脚本，自动脚本可参见: [ShallowMaple/cuit-evaluation-helper](https://github.com/ShallowMaple/cuit-evaluation-helper)
+
 ## 使用方法
 
 1. 打开浏览器的**开发者工具**（快捷键 `F12`）。
